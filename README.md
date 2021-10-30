@@ -3,7 +3,7 @@
 
 In this repo, you'll find code to a secure web-based messager our group made during the Minor Project of our Semester V.
 
-###Our Group Members Include:
+### Our Group Members Include:
 * Harshal Kulkarni (Myself)
 * Jaanvi Porwal
 * Aastha Dwivedi
